@@ -1,0 +1,10 @@
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\bin\Debug\архиватор.exe.config
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\bin\Debug\архиватор.exe
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\bin\Debug\архиватор.pdb
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\obj\Debug\архиватор.csprojAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\obj\Debug\архиватор.Form1.resources
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\obj\Debug\архиватор.Properties.Resources.resources
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\obj\Debug\архиватор.csproj.GenerateResource.cache
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\obj\Debug\архиватор.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\obj\Debug\архиватор.exe
+C:\Users\Gigabyte\source\repos\архиватор\архиватор\obj\Debug\архиватор.pdb
